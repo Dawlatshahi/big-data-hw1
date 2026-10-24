@@ -1,0 +1,4 @@
+Docker server: 29.9.2
+Architecture: aarch64
+Available CPUs: 8
+Docker VM memory (bytes): 10416910336

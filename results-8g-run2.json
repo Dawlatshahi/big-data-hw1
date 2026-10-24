@@ -1,0 +1,11 @@
+{
+  "memory_gib": 8.0,
+  "sort_buffer_mib": 4096.0,
+  "elapsed_seconds": 9.362,
+  "throughput_mib_per_second": 218.77,
+  "cpu_seconds": 9.092,
+  "peak_sort_memory_mib": 2819.37,
+  "filesystem_input_blocks": 4194304,
+  "filesystem_output_blocks": 4194304,
+  "sorted_check_passed": true
+}

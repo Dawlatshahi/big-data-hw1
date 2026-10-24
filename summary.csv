@@ -1,0 +1,5 @@
+RAM_GiB,Mean_time_seconds,Time_stdev_seconds,Mean_throughput_MiB_s,Mean_peak_sort_memory_MiB
+1,11.491,0.667,178.65,513.51
+2,13.159,1.153,156.39,1025.51
+4,14.37,1.716,143.87,2049.41
+8,11.166,1.568,186.08,2819.37
